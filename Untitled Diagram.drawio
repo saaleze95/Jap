@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T21:40:18.163Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.5.9" etag="WwET8Lv2w5Ri_WLuLtPZ" type="github"><diagram id="FlkiXIvMVXTxF6Fdl1Iv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-04T21:57:41.932Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Mf6_D2NemvTpQxUs_feo" version="13.5.9" type="github">
+  <diagram id="FlkiXIvMVXTxF6Fdl1Iv" name="Page-1">
+    <mxGraphModel dx="782" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cdrFwFMQsubxn2c3XnxD-3" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=0;dy=110;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="70" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cdrFwFMQsubxn2c3XnxD-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;eMercado&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="100" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cdrFwFMQsubxn2c3XnxD-5" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=0;dy=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cdrFwFMQsubxn2c3XnxD-6" value="Información del artículo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdrFwFMQsubxn2c3XnxD-7" value="&lt;div&gt;- Nombre&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Descripción&lt;/div&gt;&lt;div&gt;- Categoría a la que pertenece&lt;/div&gt;&lt;div&gt;&lt;span&gt;- Precio&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Moneda (Pesos o Dólares)&lt;/div&gt;&lt;div&gt;- Cantidad de comprados&lt;/div&gt;&lt;div&gt;- Imágenes&lt;/div&gt;&lt;div&gt;- Productos relacionados&lt;/div&gt;&lt;div&gt;- Puntuación y comentarios&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="180" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
